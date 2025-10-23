@@ -4,14 +4,15 @@ on:
   schedule:
     - cron: "30 3 * * *"
   workflow_dispatch:
-  
   push:
     branches: ["main", "master"]
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Generate snake files
         uses: Platane/snk@v3
