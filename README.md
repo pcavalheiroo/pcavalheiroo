@@ -114,6 +114,6 @@
 ---
 
 ### 🐍 Snake (Commits)
-![snake gif](https://raw.githubusercontent.com/pcavalheiroo/pcavalheiroo/output/snake.svg#gh-light-mode-only)
-![snake gif](https://raw.githubusercontent.com/pcavalheiroo/pcavalheiroo/output/snake-dark.svg#gh-dark-mode-only)
+![snake light](https://cdn.jsdelivr.net/gh/pcavalheiroo/pcavalheiroo@output/snake.svg#gh-light-mode-only)
+![snake dark](https://cdn.jsdelivr.net/gh/pcavalheiroo/pcavalheiroo@output/snake-dark.svg#gh-dark-mode-only)
 
