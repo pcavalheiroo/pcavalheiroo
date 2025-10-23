@@ -111,4 +111,9 @@
 - ✉️ **Email:** pdrocavalhbeiro@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/
 
-</p>
+---
+
+### 🐍 Snake (Commits)
+![snake gif](https://raw.githubusercontent.com/pcavalheiroo/pcavalheiroo/output/snake.svg#gh-light-mode-only)
+![snake gif](https://raw.githubusercontent.com/pcavalheiroo/pcavalheiroo/output/snake-dark.svg#gh-dark-mode-only)
+
