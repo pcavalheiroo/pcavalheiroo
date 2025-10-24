@@ -108,7 +108,7 @@
 ---
 
 ## 📬 Contato
-- ✉️ **Email:** pdrocavalhbeiro@gmail.com  
+- ✉️ **Email:** pdrocavalheiro@gmail.com  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/
 
 ---
