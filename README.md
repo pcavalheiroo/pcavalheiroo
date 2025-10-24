@@ -103,7 +103,7 @@
 ### 🔹 PoliAI – Ilustrações Didáticas por IA
 - **Stack:** React, Firebase/Firestore, Flutter (app), FastAPI
 - **Ideia:** Geração/edição de imagens educacionais (Física/Química) com controle por domínio institucional.
-- **Repositório:** [github.com/pcavalheiroo/poliai](https://github.com/pcavalheiroo/poliai)
+- **Repositório:** [github.com/pcavalheiroo/poliai](https://github.com/pcavalheiroo/poli-ai)
 
 ---
 
@@ -113,7 +113,6 @@
 
 ---
 
-### 🐍 Snake (Commits)
-![snake light](.github/snake.svg?cachebust=1#gh-light-mode-only)
+## 🐍 Snake (Commits)
 ![snake dark](.github/snake-dark.svg?cachebust=1#gh-dark-mode-only)
-
+![snake light](.github/snake.svg?cachebust=1#gh-light-mode-only)
