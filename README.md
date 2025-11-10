@@ -25,7 +25,6 @@
 - 🏗️ Desenvolvedor com foco em **eficiência** e **inovação**.
 - ☁️ Interessado em aprender **novas tecnologias** e aprimorar **habilidades técnicas**.
 - 🧪 Comprometido com **evolução constante** e **qualidade no desenvolvimento**.
-- 💬 Pergunte-me sobre: **FastAPI, React, Flutter, Firestore, YOLO, OpenCV**.
 
 ---
 
