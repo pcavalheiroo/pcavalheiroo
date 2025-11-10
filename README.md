@@ -40,11 +40,6 @@
   <img height="165" src="https://streak-stats.demolab.com?user=pcavalheiroo&theme=transparent&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-## Trophies
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=pcavalheiroo&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
