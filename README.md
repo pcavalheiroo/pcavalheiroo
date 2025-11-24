@@ -34,11 +34,6 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcavalheiroo&layout=compact&theme=transparent" />
 </p>
 
-## Streak
-<p>
-  <img height="165" src="https://streak-stats.demolab.com?user=pcavalheiroo&theme=transparent&date_format=j%20M%5B%20Y%5D" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack
