@@ -28,14 +28,6 @@
 
 ---
 
-## GitHub Stats
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pcavalheiroo&show_icons=true&theme=transparent&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcavalheiroo&layout=compact&theme=transparent" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 <div>
 
