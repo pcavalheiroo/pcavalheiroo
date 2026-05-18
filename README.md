@@ -1,102 +1,120 @@
-<h1 align="center">👋 Olá! Eu sou <strong>Pedro Cavalheiro</strong></h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/pcavalheiroo">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=36BCF7&center=true&vCenter=true&width=750&lines=Desenvolvedor+Full+Stack+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o"/>
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Pedro+Cavalheiro)](https://github.com/pcavalheiroo)
 
-<p align="center">
-  <a href="mailto:pdrocavalheiro@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-pdrocavalheiro%40gmail.com-DC4A3D?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pedro%20Cavalheiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/pcavalheiroo?tab=repositories" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repositórios-24292E?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=800&color=6C8EBF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Python+%7C+FastAPI+%7C+TypeScript+%7C+React+%7C+Flutter;Backend+%26+AI+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+IMT)](https://github.com/pcavalheiroo)
 
----
+<br/>
 
-## 🧭 Sobre mim
-- 🎓 Estudante de **Ciência da Computação** focado em projetos de alta qualidade acadêmica.
-- 🏗️ Desenvolvedor com foco em **eficiência** e **inovação**.
-- ☁️ Interessado em aprender **novas tecnologias** e aprimorar **habilidades técnicas**.
-- 🧪 Comprometido com **evolução constante** e **qualidade no desenvolvimento**.
-
----
-
-## 🛠️ Tech Stack
-<div>
-
-  <h3>Linguagens</h3>
-  <p>
-    <img title="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-    <img title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-    <img title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-    <img title="Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-    <img title="Dart" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"/>
-    <img title="SQL (MySQL)" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  </p>
-
-  <h3>Back-end & AI</h3>
-  <p>
-    <img title="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
-    <img title="Flask" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-    <img title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-    <img title="OpenCV" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg"/>
-  </p>
-
-  <h3>Front-end & Mobile</h3>
-  <p>
-    <img title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-    <img title="Next.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-    <img title="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-    <img title="Flutter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-  </p>
-
-  <h3>Cloud & Dados</h3>
-  <p>
-    <img title="Firebase" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg"/>
-    <img title="MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-    <img title="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-    <img title="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-    <img title="GitHub Actions" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg"/>
-  </p>
-
-  <h3>Ferramentas & Qualidade</h3>
-  <p>
-    <img title="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-    <img title="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-    <img title="Figma" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-    <img title="JUnit" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-  </p>
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:pdrocavalheiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/pcavalheiroo)
 
 </div>
 
+---
+
+### About
+
+Estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia, 5º semestre, formação em 2027.
+
+Construo software que conecta **lógica de negócio e tecnologia**: do backend estruturado ao frontend funcional, com experiência prática em projetos reais desenvolvidos em equipes ágeis com documentação, testes e entregas concretas.
+
+Foco atual em sistemas que integram **AI e dados**, especialmente na interseção entre linguagem natural, SQL e automação de relatórios corporativos.
 
 ---
 
-## 🚀 Projetos em destaque
+### Projects
 
-### 🔹 PoliAI – Ilustrações Didáticas por IA
-- **Stack:** React, Firebase/Firestore, Flutter (app), FastAPI
-- **Ideia:** Geração/edição de imagens educacionais (Física/Química) com controle por domínio institucional.
-- **Repositório:** [github.com/pcavalheiroo/poliai](https://github.com/pcavalheiroo/poli-ai)
+<table>
+<tr>
+
+<td width="50%" valign="top">
+<br/>
+
+**DataSpeak** &nbsp;&nbsp;`in development`
+
+Sistema que converte **perguntas em linguagem natural** em queries SQL para geração automatizada de relatórios em Power BI integrado ao SAP.
+
+Projeto acadêmico com escopo de produto real, conecta negócio, dados e IA generativa em um pipeline funcional.
+
+`Python` `NLP` `SQL` `RAG` `Power BI` `SAP`
+
+<br/>
+</td>
+
+<td width="50%" valign="top">
+<br/>
+
+**PoliAI** &nbsp;&nbsp;[`→ repositório`](https://github.com/pcavalheiroo/poli-ai)
+
+Plataforma multiplataforma (web + mobile) para geração de **ilustrações educativas com IA generativa**, desenvolvida em parceria com o Colégio Poliedro.
+
+Equipe de ~6 pessoas, metodologia ágil, documentação técnica e ciclo completo de desenvolvimento.
+
+`React` `FastAPI` `Flutter` `Firebase` `Dart`
+
+<br/>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📬 Contato
-- ✉️ **Email:** pdrocavalheiro@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/
+### Tech Stack
+
+<div align="center">
+
+**Linguagens**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Dart](https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+
+**Backend & AI**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Flask](https://img.shields.io/badge/Flask-0d1117?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+
+**Frontend & Mobile**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B)
+
+**Cloud & Dados**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=336791)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+</div>
 
 ---
 
-## 🐍 Snake (Commits)
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
+### Contact
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/pdrocavalheiro@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:pdrocavalheiro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pcavalheiroo)
+
+</div>
+
+---
