@@ -4,12 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=800&color=6C8EBF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Python+%7C+FastAPI+%7C+TypeScript+%7C+React+%7C+Flutter;Backend+%26+AI+%7C+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%E2%80%94+IMT)](https://github.com/pcavalheiroo)
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:pdrocavalheiro@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pedro-cavalheiro-a3b004260/)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/pcavalheiroo)
-
 </div>
 
 ---
