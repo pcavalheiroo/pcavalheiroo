@@ -8,7 +8,7 @@
 
 ---
 
-### About
+### Sobre
 
 Estudante de **Ciência da Computação** no Instituto Mauá de Tecnologia, 5º semestre, formação em 2027.
 
@@ -18,7 +18,7 @@ Foco atual em sistemas que integram **AI e dados**, especialmente na interseçã
 
 ---
 
-### Projects
+### Projetos
 
 <table>
 <tr>
@@ -101,7 +101,7 @@ Equipe de ~6 pessoas, metodologia ágil, documentação técnica e ciclo complet
 
 ---
 
-### Contact
+### Contato
 
 <div align="center">
 
