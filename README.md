@@ -89,7 +89,6 @@ Equipe de ~6 pessoas, metodologia ágil, documentação técnica e ciclo complet
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
 **Ferramentas**
 
@@ -110,5 +109,3 @@ Equipe de ~6 pessoas, metodologia ágil, documentação técnica e ciclo complet
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pcavalheiroo)
 
 </div>
-
----
