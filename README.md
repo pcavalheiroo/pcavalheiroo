@@ -26,7 +26,7 @@ Foco atual em sistemas que integram **AI e dados**, especialmente na interseçã
 <td width="50%" valign="top">
 <br/>
 
-**DataSpeak** &nbsp;&nbsp;`in development`
+**DataSpeak** &nbsp;&nbsp;[`→ repositório`](https://github.com/pcavalheiroo/dataspeak)
 
 Sistema que converte **perguntas em linguagem natural** em queries SQL para geração automatizada de relatórios em Power BI integrado ao SAP.
 
